@@ -1,1 +1,1 @@
-# gpchild-ellak-obs
+# GeneratePress child theme for openstandards.ellak.gr
